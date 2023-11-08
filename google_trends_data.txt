@@ -1,1 +1,1 @@
-https://trends.google.com/trends/explore?date=today%201-m&geo=BR&q=seguro%20residencial&hl=pt
+<script type="text/javascript" src="https://google-trends.meetglimpse.com"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"seguro residencial","geo":"BR","time":"today 1-m"}],"category":0,"property":""}, {"exploreQuery":"date=today%201-m&geo=BR&q=seguro%20residencial&hl=pt","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
